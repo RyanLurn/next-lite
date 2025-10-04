@@ -19,6 +19,10 @@
       "suspicious": {
         "noUnknownAtRules": "off"
       }
+    },
+    "domains": {
+      "react": "recommended",
+      "next": "recommended"
     }
   },
   "javascript": {
